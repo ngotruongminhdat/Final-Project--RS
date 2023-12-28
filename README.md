@@ -34,3 +34,14 @@ movies_metadata.csv
 Movie id
 
 Movie name
+
+### Requirement
+
+\begin{itemize}
+\item[] Numpy
+\item[] Pandas
+\item[] matplotlib
+\item[] scikit-learn
+\item[] keras
+
+\end{itemize}
