@@ -21,12 +21,15 @@ We used The Movie Dataset at [kaggle](https://www.kaggle.com/datasets/rounakbani
 
 ratings.csv 
 
-User id
-Movie id
-Rating
+User id\\
+
+Movie id\\
+
+Rating\\
+
 Timestamp
 
 movies_metadata.csv
 
-Movie id
+Movie id \\
 Movie name
