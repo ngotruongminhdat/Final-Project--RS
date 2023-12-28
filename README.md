@@ -11,4 +11,4 @@ Neural Collaborative Filtering (NCF) employs a deep learning approach to provide
 ### Paper refered
 
 
-This project is implementation of [paper]{https://arxiv.org/pdf/1708.05031.pdf}
+This project is implementation of [paper](https://arxiv.org/pdf/1708.05031.pdf)
