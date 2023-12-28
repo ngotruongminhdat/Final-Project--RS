@@ -21,27 +21,28 @@ We used The Movie Dataset at [kaggle](https://www.kaggle.com/datasets/rounakbani
 
 ratings.csv 
 
-User id
+    * User id
 
-Movie id
+    * Movie id
 
-Rating
+    * Rating
 
-Timestamp
+    * Timestamp
 
 movies_metadata.csv
 
-Movie id
+    * Movie id
 
-Movie name
+    * Movie name
 
 ### Requirement
 
-\begin{itemize}
-\item[] Numpy
-\item[] Pandas
-\item[] matplotlib
-\item[] scikit-learn
-\item[] keras
+ * Numpy
 
-\end{itemize}
+ * Pandas
+
+ * matplotlib
+
+ * scikit-learn
+
+ * keras
