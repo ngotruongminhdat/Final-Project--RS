@@ -15,25 +15,8 @@ This project is implementation of [paper](https://arxiv.org/pdf/1708.05031.pdf)
 
 ### Dataset
 
-We used The Movie Dataset at [kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+We used Pinteret Dataset at [here](https://sites.google.com/site/xueatalphabeta/academic-projects)
 
-#### Features used in this project
-
-ratings.csv 
-
-* User id
-
-* Movie id
-
-* Rating
-
-* Timestamp
-
-movies_metadata.csv
-
-* Movie id
-
-* Movie name
 
 ### Requirement
 
